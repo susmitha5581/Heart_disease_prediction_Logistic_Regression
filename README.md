@@ -107,7 +107,7 @@ Without a thorough analysis of this data, models will be more likely to predict 
 
 When you get to the model training section, you may notice that I don't use these normalized values for training. I tried using the normalized values and the 4 types of accuracies were almost around the same percentages, which is good, however all the accuracies were between 50%~70%. So, I decided to not use the normalized data.
 
-
+## **Feature selection**
 
 
 
