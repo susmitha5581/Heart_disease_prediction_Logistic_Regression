@@ -101,6 +101,8 @@ Standardization is an important technique that is mostly performed as a pre-pro
 
 Normalization is a data preparation technique that is frequently used in machine learning. The process of transforming the columns in a dataset to the same scale is referred to as normalization. Every dataset does not need to be normalized for machine learning.
 
+![](https://github.com/susmitha5581/Heart_disease_prediction_Logistic_Regression/blob/main/images/correlations.png)
+
 
 
 
