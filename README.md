@@ -84,6 +84,14 @@ TenYearCHD: If the patient has had congestive heart failure in the last ten year
 ## **Correlation Matrix**
 ![correlations](https://github.com/susmitha5581/Heart_disease_prediction_Logistic_Regression/blob/main/images/correlations.png)
 
+## **Data Cleaning**
+
+We have to find a way to effectively remove or replace the null values so that models can be applied.
+The education column could be very subjective, has many null values and has no correlation to the other feature, so I'm going to drop it.
+Here I want to change the column name Males as gender
+And here Gender as 0 = Female; 1 = Male
+
+
 
 
 
