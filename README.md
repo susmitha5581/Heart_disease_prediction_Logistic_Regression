@@ -128,6 +128,8 @@ In logistic regression, we get a little higher when comparing three models
 
 ## **Will develope CHD**
 
+![CHD](https://github.com/susmitha5581/Heart_disease_prediction_Logistic_Regression/blob/main/images/CHD.png)
+
 Enter you information as the variables to see if you'll get CHD. I've inputted my values (and average values for values I could not get at the moment)
 
 
