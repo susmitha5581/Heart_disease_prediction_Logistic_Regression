@@ -21,12 +21,6 @@ Data set: [Heart disease prediction.csv](https://github.com/susmitha5581/Heart_d
 ## **Overview**
 ![overview](https://github.com/susmithareddy-1996/Heart_disease_prediction/blob/main/images/overview.png)
 
-## **Analysing Features using Visualization**
-![variables](https://github.com/susmitha5581/Heart_disease_prediction_Logistic_Regression/blob/main/images/variables.png)
-
-## **Correlation Matrix**
-![correlations](https://github.com/susmitha5581/Heart_disease_prediction_Logistic_Regression/blob/main/images/correlations.png)
-
 ## **Contents**
 1. Basic Data Analysis
 2. Analyzing Features using Visualizations
@@ -75,6 +69,12 @@ heartRate: Beats/Min (Ventricular)
 glucose: mg/dL 
 
 TenYearCHD: If the patient has had congestive heart failure in the last ten years. This will be what my models will be predicting. 
+
+## **Analysing Features using Visualization**
+![variables](https://github.com/susmitha5581/Heart_disease_prediction_Logistic_Regression/blob/main/images/variables.png)
+
+## **Correlation Matrix**
+![correlations](https://github.com/susmitha5581/Heart_disease_prediction_Logistic_Regression/blob/main/images/correlations.png)
 
 
 
