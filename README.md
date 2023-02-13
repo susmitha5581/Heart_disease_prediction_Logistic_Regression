@@ -126,7 +126,7 @@ When you get to the model training section, you may notice that I don't use thes
 
 In logistic regression, we get a little higher when comparing three models
 
-## **Will develope CHD**
+## **Will develope CHD ?**
 
 ![CHD](https://github.com/susmitha5581/Heart_disease_prediction_Logistic_Regression/blob/main/images/CHD.png)
 
