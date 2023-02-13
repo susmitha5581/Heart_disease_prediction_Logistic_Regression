@@ -35,6 +35,7 @@ Data set: [Heart disease prediction.csv](https://github.com/susmitha5581/Heart_d
 5. Normalization
 6. Feature selection
 7. Applying models
+
 8.Conclusion
 9. Will you develop CHD?
 
