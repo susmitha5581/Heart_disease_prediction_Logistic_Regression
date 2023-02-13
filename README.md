@@ -113,9 +113,12 @@ When you get to the model training section, you may notice that I don't use thes
 
 ## **Models Used**
 
-Linear regression
-Random forest
+Linear regression 
+
+Random forest 
+
 KNN
+
 
 
 
