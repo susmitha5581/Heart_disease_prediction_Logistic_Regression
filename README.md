@@ -109,6 +109,8 @@ When you get to the model training section, you may notice that I don't use thes
 
 ## **Feature selection**
 
+![Normalization](https://github.com/susmitha5581/Heart_disease_prediction_Logistic_Regression/blob/main/images/Normalization.png)
+
 
 
 
