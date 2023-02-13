@@ -14,7 +14,7 @@ The classification goal is to predict whether the patient has 10-year risk of fu
 
 I have implemented Logistic Regression Model to predict Coronary Heart Disease.
 
-**Data information**
+# **Data information**
 
 ## **Overview**
 ![overview](https://github.com/susmithareddy-1996/Heart_disease_prediction/blob/main/images/overview.png)
