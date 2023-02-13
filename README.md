@@ -21,8 +21,6 @@ Data set: [Heart disease prediction.csv](https://github.com/susmitha5581/Heart_d
 ## **Overview**
 ![overview](https://github.com/susmithareddy-1996/Heart_disease_prediction/blob/main/images/overview.png)
 
-'''R
-report = pandas_profiling.ProfileReport(data)
+## **Analysing Features using Visualization**
 
-display(report)
 
