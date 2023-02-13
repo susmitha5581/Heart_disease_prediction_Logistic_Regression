@@ -103,6 +103,8 @@ Normalization is a data preparation technique that is frequently used in machi
 
 ![Normalization](https://github.com/susmitha5581/Heart_disease_prediction_Logistic_Regression/blob/main/images/Normalization.png)
 
+Without a thorough analysis of this data, models will be more likely to predict that a patient does not have heart disease. The unbalance will be resolved by splitting training and testing data and then balancing the training data. To ensure that the training data is balanced, I will undersample.
+
 
 
 
