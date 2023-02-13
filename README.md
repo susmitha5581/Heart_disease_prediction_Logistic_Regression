@@ -93,6 +93,19 @@ Here I want to change the column name Males as gender
 
 And here Gender as 0 = Female; 1 = Male
 
+## **Standardization**
+
+Standardization is an important technique that is mostly performed as a pre-processing step before many Machine Learning models, to standardize the range of features of input data set.
+
+## **Normalization**
+
+Normalization is a data preparation technique that is frequently used in machine learning. The process of transforming the columns in a dataset to the same scale is referred to as normalization. Every dataset does not need to be normalized for machine learning.
+
+
+
+
+
+
 
 
 
