@@ -16,5 +16,7 @@ I have implemented Logistic Regression Model to predict Coronary Heart Disease.
 
 # **Data information**
 
+Data set: [Heart disease prediction.csv](https://github.com/susmitha5581/Heart_disease_prediction_Logistic_Regression/blob/main/Heart%20disease%20prediction.csv)
+
 ## **Overview**
 ![overview](https://github.com/susmithareddy-1996/Heart_disease_prediction/blob/main/images/overview.png)
