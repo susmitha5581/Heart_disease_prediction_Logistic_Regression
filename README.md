@@ -22,5 +22,6 @@ Data set: [Heart disease prediction.csv](https://github.com/susmitha5581/Heart_d
 ![overview](https://github.com/susmithareddy-1996/Heart_disease_prediction/blob/main/images/overview.png)
 
 ## **Analysing Features using Visualization**
+![variables](https://github.com/susmitha5581/Heart_disease_prediction_Logistic_Regression/blob/main/images/variables.png)
 
 
