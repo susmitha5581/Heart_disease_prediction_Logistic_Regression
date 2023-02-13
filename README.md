@@ -38,6 +38,28 @@ Data set: [Heart disease prediction.csv](https://github.com/susmitha5581/Heart_d
 8.Conclusion 
 9. Will you develop CHD?
 
+## **Basic data Analysis**
+
+Before anything is done to the data, we must take a look at the features and values included.
+
+Here are what all the features are described as:
+male: 0 = Female; 1 = Male
+age: Age at exam time.
+education: 1 = Some High School; 2 = High School or GED; 3 = Some College or Vocational School; 4 = college
+currentSmoker: 0 = nonsmoker; 1 = smoker
+cigsPerDay: number of cigarettes smoked per day (estimated average)
+BPMeds: 0 = Not on Blood Pressure medications; 1 = Is on Blood Pressure medications
+prevalentStroke
+prevalentHyp
+diabetes: 0 = No; 1 = Yes
+totChol: mg/dL
+sysBP: mmHg
+diaBP: mmHg
+BMI: Body Mass Index calculated as: Weight (kg) / Height(meter-squared)
+heartRate: Beats/Min (Ventricular)
+glucose: mg/dL
+TenYearCHD: If the patient has had congestive heart failure in the last ten years. This will be what my models will be predicting.
+
 
 
 
