@@ -113,11 +113,13 @@ When you get to the model training section, you may notice that I don't use thes
 
 ## **Models Used**
 
-Linear regression : Logistic Regression Machine Learning is basically a classification algorithm that comes under the Supervised category (a type of machine learning in which machines are trained using "labelled" data, and on the basis of that trained data, the output is predicted) of Machine Learning algorithms. This simply means it fetches its roots in the field of Statistics.
+**Linear regression** : Logistic Regression Machine Learning is basically a classification algorithm that comes under the Supervised category (a type of machine learning in which machines are trained using "labelled" data, and on the basis of that trained data, the output is predicted) of Machine Learning algorithms. This simply means it fetches its roots in the field of Statistics.
 
-Random forest 
+**Random forest** : Random forest is a commonly-used machine learning algorithm trademarked by Leo Breiman and Adele Cutler, which combines the output of multiple decision trees to reach a single result. Its ease of use and flexibility have fueled its adoption, as it handles both classification and regression problems.
 
-KNN
+**KNN** : It is one of the simplest algorithms in Machine Learning. This algorithm is a supervised algorithm. The main function of this algorithm is to identify new items or cases by checking older items or cases in data set. Mainly it checks whether the new case has some similarity with older cases which is available in data set, or not. This algorithm can be used in both regression and classification techniques of Machine Learning. But it is mainly used in classification cases. This algorithm is a non parametric algorithm because it does not build any assumptions by underlying data. We know for every model there is training stage where the model learns about the method of prediction but for KNN algorithm the training phase is quite different. In training phase it only takes the data set and when new cases arrive then it stores them by checking older data set. This algorithm is called as lazy learner algorithm because it does not learn fast from training data set. It only does action when there are new cases. For this reason it is named so.
+
+
 
 
 
