@@ -113,7 +113,7 @@ When you get to the model training section, you may notice that I don't use thes
 
 ## **Models Used**
 
-Linear regression 
+Linear regression : Logistic Regression Machine Learning is basically a classification algorithm that comes under the Supervised category (a type of machine learning in which machines are trained using "labelled" data, and on the basis of that trained data, the output is predicted) of Machine Learning algorithms. This simply means it fetches its roots in the field of Statistics.
 
 Random forest 
 
