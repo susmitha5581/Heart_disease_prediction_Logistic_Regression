@@ -23,13 +23,21 @@ Data set: [Heart disease prediction.csv](https://github.com/susmitha5581/Heart_d
 
 ## **Contents**
 Basic Data Analysis
-Analyzing Features using Visualizations
-Cleaning the dataset
-Standardization
-Normalization
-Feature selection
+
+Analyzing Features using Visualizations 
+
+Cleaning the dataset 
+
+Standardization 
+
+Normalization  
+
+Feature selection 
+
 Applying models 
+
 Conclusion 
+
 Will you develop CHD?
 
 ## **Basic data Analysis**
